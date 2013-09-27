@@ -1,0 +1,36 @@
+{
+  "name": "glslifyify",
+  "version": "0.0.0",
+  "description": "A browserify transform stream for glslify",
+  "main": "index.js",
+  "dependencies": {
+    "glsl-deparser": "~0.0.2",
+    "glslify": "~0.0.1",
+    "glslify-stream": "~0.0.1",
+    "through": "~2.3.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hughsk/glslifyify.git"
+  },
+  "keywords": [
+    "glsl",
+    "module",
+    "loading",
+    "browserify",
+    "transform",
+    "system",
+    "shader",
+    "vertex",
+    "fragment"
+  ],
+  "author": "Hugh Kennedy <hughskennedy@gmail.com> (http://hughskennedy.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hughsk/glslifyify/issues"
+  }
+}

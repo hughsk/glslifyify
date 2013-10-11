@@ -6,7 +6,9 @@
   "dependencies": {
     "glsl-deparser": "~0.0.2",
     "glslify": "~0.0.1",
-    "glslify-stream": "~0.0.1",
+    "glslify-stream": "git://github.com/hughsk/glslify-stream#transformable",
+    "stream-combiner": "0.0.2",
+    "wrap-stream": "0.0.0",
     "through": "~2.3.4"
   },
   "devDependencies": {},

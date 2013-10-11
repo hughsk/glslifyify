@@ -1,6 +1,6 @@
 {
   "name": "glslifyify",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A browserify transform stream for glslify",
   "main": "index.js",
   "dependencies": {
